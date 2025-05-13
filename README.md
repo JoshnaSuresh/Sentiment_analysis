@@ -28,7 +28,7 @@ Key components include:
 ## Setup Instructions
 
 ## 1. Clone the Repository
-git clone https://github.com/your-username/stock-sentiment-predictor.git
+git clone https://github.com/JoshnaSuresh/Sentiment_analysis.git
 cd stock-sentiment-predictor
 
 ## 2. Setup Python Environment
